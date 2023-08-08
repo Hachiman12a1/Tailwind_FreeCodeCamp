@@ -38,6 +38,9 @@ const config: Config = {
           "5": "32px",
           "6": "48px",
         },
+        fontSize: {
+          base: "18px",
+        },
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
